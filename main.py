@@ -23,7 +23,7 @@ LOG_CHANNEL_ID = -1004393777682  # Ensure bot is admin here
 MUST_JOIN_CHANNEL = "@gmtusharxfiles"
 OTP_GROUP_LINK = "https://t.me/trxxotp"
 
-BOT_NAME = "GMxOTP"
+BOT_NAME = "𝗚𝗠𝘅𝗢𝗧𝗣"
 ADMIN_IDS = [8430946490]
 OWNER_USERNAME = "@Amarstarx"
 
